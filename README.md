@@ -11,7 +11,8 @@ To run the RJMetronome project, clone the repo, and run the project.
 - Xcode 14 to onwards
 - iOS 15,*
 - iPad OS 15,*
-- Swift 4.0 , SwiftUI
+- Swift 4.0 (Can use by utilizing UIHostingController)
+- SwiftUI (Can use directly)
 
 ## Author
 raman43mann, rjmann43@gmail.com , Linkedin : https://www.linkedin.com/in/raman-mann-957201154

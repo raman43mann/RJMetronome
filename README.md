@@ -10,6 +10,7 @@ To run the RJMetronome project, clone the repo, and run the project.
 ## Requirements
 Xcode 14 to onwards
 iOS 15,*
+iPad OS 15,*
 Swift 4.0 , SwiftUI
 
 ## Author

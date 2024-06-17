@@ -8,10 +8,10 @@ To run the RJMetronome project, clone the repo, and run the project.
 
 
 ## Requirements
-Xcode 14 to onwards
-iOS 15,*
-iPad OS 15,*
-Swift 4.0 , SwiftUI
+- Xcode 14 to onwards
+- iOS 15,*
+- iPad OS 15,*
+- Swift 4.0 , SwiftUI
 
 ## Author
 raman43mann, rjmann43@gmail.com , Linkedin : https://www.linkedin.com/in/raman-mann-957201154
